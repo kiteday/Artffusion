@@ -5,7 +5,7 @@
 ![image](https://github.com/kiteday/Artffusion/assets/74218895/6af166d0-2d19-4767-8d93-209541059445)
 
 # Citation
-'''
+```
 @article{yang2024artfusion,
   title={Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits},
   author={Yang, Hyemin and Yang, Heekyung and Min, Kyungha},
@@ -16,4 +16,4 @@
   year={2024},
   publisher={MDPI}
 }
-'''
+```
